@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <Reference Include="GlobalMotorcycleServiceModule">
-      <HintPath>..\GlobalMotorcycleServiceModule\bin\Debug\netcoreapp3.1\GlobalMotorcycleServiceModule.dll</HintPath>
+      <HintPath>..\..\GlobalMotorcycleServiceModule\bin\Debug\netcoreapp3.1\GlobalMotorcycleServiceModule.dll</HintPath>
     </Reference>
   </ItemGroup>
 
